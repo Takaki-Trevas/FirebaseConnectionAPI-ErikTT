@@ -1,4 +1,4 @@
-import express from "express";
+/*import express from "express";
 import path from "path";
 import {fileURLToPath} from "url";
 import dataRoutes from "./routes/routes.js";
@@ -24,4 +24,4 @@ app.get('/', (req, res) => {
 
 app.listen(PORT, () =>{
     console.log("Servidor rodando em localhost:3000")
-});
+});*/

@@ -1,14 +1,12 @@
 {
-  "name": "apinode2-eriktt",
+  "name": "firebaseconnectionapi-eriktt",
   "version": "1.0.0",
-  "main": "index.js",
-  "type": "module",
+  "description": "protocolo HTTP criação de api",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon server.js"
+    "start": "node server.js"
   },
-  "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
 }
